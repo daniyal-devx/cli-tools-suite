@@ -1,0 +1,23 @@
+# Environment variables (NEVER commit secrets)
+.env
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE/editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data files you may not want tracked (optional — decide per project)
+# data/*.json
